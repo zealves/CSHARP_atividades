@@ -1,0 +1,10 @@
+C:\Users\tecminho1\Desktop\projetos\Projeto7\WinFormsOfficeApps\AppOffice\bin\Debug\AppOffice.exe.config
+C:\Users\tecminho1\Desktop\projetos\Projeto7\WinFormsOfficeApps\AppOffice\bin\Debug\AppOffice.exe
+C:\Users\tecminho1\Desktop\projetos\Projeto7\WinFormsOfficeApps\AppOffice\bin\Debug\AppOffice.pdb
+C:\Users\tecminho1\Desktop\projetos\Projeto7\WinFormsOfficeApps\AppOffice\obj\Debug\AppOffice.csprojResolveAssemblyReference.cache
+C:\Users\tecminho1\Desktop\projetos\Projeto7\WinFormsOfficeApps\AppOffice\obj\Debug\AppOffice.Form1.resources
+C:\Users\tecminho1\Desktop\projetos\Projeto7\WinFormsOfficeApps\AppOffice\obj\Debug\AppOffice.Properties.Resources.resources
+C:\Users\tecminho1\Desktop\projetos\Projeto7\WinFormsOfficeApps\AppOffice\obj\Debug\AppOffice.csproj.GenerateResource.Cache
+C:\Users\tecminho1\Desktop\projetos\Projeto7\WinFormsOfficeApps\AppOffice\obj\Debug\AppOffice.exe
+C:\Users\tecminho1\Desktop\projetos\Projeto7\WinFormsOfficeApps\AppOffice\obj\Debug\AppOffice.pdb
+C:\Users\tecminho1\Desktop\projetos\Projeto7\WinFormsOfficeApps\AppOffice\obj\Debug\AppOffice.csproj.ResolveComReference.cache

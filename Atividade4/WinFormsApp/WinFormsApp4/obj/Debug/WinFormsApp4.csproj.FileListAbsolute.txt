@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp4\bin\Debug\WinFormsApp4.exe.config
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp4\bin\Debug\WinFormsApp4.exe
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp4\bin\Debug\WinFormsApp4.pdb
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp4\obj\Debug\WinFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp4\obj\Debug\WinFormsApp4.Form1.resources
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp4\obj\Debug\WinFormsApp4.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp4\obj\Debug\WinFormsApp4.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp4\obj\Debug\WinFormsApp4.exe
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp4\obj\Debug\WinFormsApp4.pdb

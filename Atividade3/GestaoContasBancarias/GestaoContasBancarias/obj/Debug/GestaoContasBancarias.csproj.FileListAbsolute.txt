@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade3\GestaoContasBancarias\GestaoContasBancarias\bin\Debug\GestaoContasBancarias.exe.config
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade3\GestaoContasBancarias\GestaoContasBancarias\bin\Debug\GestaoContasBancarias.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade3\GestaoContasBancarias\GestaoContasBancarias\bin\Debug\GestaoContasBancarias.pdb
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade3\GestaoContasBancarias\GestaoContasBancarias\obj\Debug\GestaoContasBancarias.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade3\GestaoContasBancarias\GestaoContasBancarias\obj\Debug\GestaoContasBancarias.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade3\GestaoContasBancarias\GestaoContasBancarias\obj\Debug\GestaoContasBancarias.pdb

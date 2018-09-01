@@ -1,0 +1,9 @@
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp1\bin\Debug\WinFormsApp1.exe.config
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp1\bin\Debug\WinFormsApp1.exe
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp1\bin\Debug\WinFormsApp1.pdb
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp1\obj\Debug\WinFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp1\obj\Debug\WinFormsApp1.Form1.resources
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp1\obj\Debug\WinFormsApp1.Properties.Resources.resources
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp1\obj\Debug\WinFormsApp1.csproj.GenerateResource.Cache
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp1\obj\Debug\WinFormsApp1.exe
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp1\obj\Debug\WinFormsApp1.pdb

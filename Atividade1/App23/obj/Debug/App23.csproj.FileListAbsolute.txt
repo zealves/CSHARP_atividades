@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\App23\bin\Debug\App23.exe.config
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\App23\bin\Debug\App23.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\App23\bin\Debug\App23.pdb
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\App23\obj\Debug\App23.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\App23\obj\Debug\App23.pdb

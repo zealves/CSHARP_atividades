@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\App25\bin\Debug\App25.exe.config
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\App25\bin\Debug\App25.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\App25\bin\Debug\App25.pdb
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\App25\obj\Debug\App25.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\App25\obj\Debug\App25.pdb

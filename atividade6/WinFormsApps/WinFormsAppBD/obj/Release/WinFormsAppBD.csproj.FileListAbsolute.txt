@@ -1,0 +1,8 @@
+C:\Users\DONO\Desktop\atividade6\WinFormsApps\WinFormsAppBD\bin\Release\WinFormsAppBD.exe.config
+C:\Users\DONO\Desktop\atividade6\WinFormsApps\WinFormsAppBD\bin\Release\WinFormsAppBD.exe
+C:\Users\DONO\Desktop\atividade6\WinFormsApps\WinFormsAppBD\bin\Release\WinFormsAppBD.pdb
+C:\Users\DONO\Desktop\atividade6\WinFormsApps\WinFormsAppBD\obj\Release\WinFormsAppBD.Form1.resources
+C:\Users\DONO\Desktop\atividade6\WinFormsApps\WinFormsAppBD\obj\Release\WinFormsAppBD.Properties.Resources.resources
+C:\Users\DONO\Desktop\atividade6\WinFormsApps\WinFormsAppBD\obj\Release\WinFormsAppBD.csproj.GenerateResource.Cache
+C:\Users\DONO\Desktop\atividade6\WinFormsApps\WinFormsAppBD\obj\Release\WinFormsAppBD.exe
+C:\Users\DONO\Desktop\atividade6\WinFormsApps\WinFormsAppBD\obj\Release\WinFormsAppBD.pdb

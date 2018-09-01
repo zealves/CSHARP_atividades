@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\App24\bin\Debug\App24.exe.config
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\App24\bin\Debug\App24.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\App24\bin\Debug\App24.pdb
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\App24\obj\Debug\App24.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\App24\obj\Debug\App24.pdb

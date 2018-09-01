@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\App21\bin\Debug\App21.exe.config
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\App21\bin\Debug\App21.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\App21\bin\Debug\App21.pdb
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\App21\obj\Debug\App21.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\App21\obj\Debug\App21.pdb

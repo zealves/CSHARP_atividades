@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade2\ConsoleApp1\Ex25\bin\Debug\Ex25.exe.config
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade2\ConsoleApp1\Ex25\bin\Debug\Ex25.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade2\ConsoleApp1\Ex25\bin\Debug\Ex25.pdb
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade2\ConsoleApp1\Ex25\obj\Debug\Ex25.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade2\ConsoleApp1\Ex25\obj\Debug\Ex25.pdb

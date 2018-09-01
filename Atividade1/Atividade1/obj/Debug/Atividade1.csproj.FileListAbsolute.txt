@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\Atividade1\obj\Debug\Atividade1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\Atividade1\bin\Debug\Atividade1.exe.config
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\Atividade1\bin\Debug\Atividade1.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\Atividade1\bin\Debug\Atividade1.pdb
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\Atividade1\obj\Debug\Atividade1.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade1\Atividade1\obj\Debug\Atividade1.pdb

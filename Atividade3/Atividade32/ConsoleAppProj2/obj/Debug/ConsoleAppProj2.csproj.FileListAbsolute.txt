@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade3\Atividade32\ConsoleAppProj2\obj\Debug\ConsoleAppProj2.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade3\Atividade32\ConsoleAppProj2\bin\Debug\ConsoleAppProj2.exe.config
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade3\Atividade32\ConsoleAppProj2\bin\Debug\ConsoleAppProj2.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade3\Atividade32\ConsoleAppProj2\bin\Debug\ConsoleAppProj2.pdb
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade3\Atividade32\ConsoleAppProj2\obj\Debug\ConsoleAppProj2.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade3\Atividade32\ConsoleAppProj2\obj\Debug\ConsoleAppProj2.pdb

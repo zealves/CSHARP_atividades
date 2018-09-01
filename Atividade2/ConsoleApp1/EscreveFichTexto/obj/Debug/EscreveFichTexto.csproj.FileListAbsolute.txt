@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade2\ConsoleApp1\EscreveFichTexto\bin\Debug\EscreveFichTexto.exe.config
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade2\ConsoleApp1\EscreveFichTexto\bin\Debug\EscreveFichTexto.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade2\ConsoleApp1\EscreveFichTexto\bin\Debug\EscreveFichTexto.pdb
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade2\ConsoleApp1\EscreveFichTexto\obj\Debug\EscreveFichTexto.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade2\ConsoleApp1\EscreveFichTexto\obj\Debug\EscreveFichTexto.pdb

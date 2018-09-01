@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\atividade6\WinFormsApps\WinFormsAppChart_BD\bin\Debug\WinFormsAppChart_BD.exe.config
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\atividade6\WinFormsApps\WinFormsAppChart_BD\bin\Debug\WinFormsAppChart_BD.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\atividade6\WinFormsApps\WinFormsAppChart_BD\bin\Debug\WinFormsAppChart_BD.pdb
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\atividade6\WinFormsApps\WinFormsAppChart_BD\obj\Debug\WinFormsAppChart_BD.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\atividade6\WinFormsApps\WinFormsAppChart_BD\obj\Debug\WinFormsAppChart_BD.Form1.resources
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\atividade6\WinFormsApps\WinFormsAppChart_BD\obj\Debug\WinFormsAppChart_BD.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\atividade6\WinFormsApps\WinFormsAppChart_BD\obj\Debug\WinFormsAppChart_BD.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\atividade6\WinFormsApps\WinFormsAppChart_BD\obj\Debug\WinFormsAppChart_BD.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\atividade6\WinFormsApps\WinFormsAppChart_BD\obj\Debug\WinFormsAppChart_BD.pdb

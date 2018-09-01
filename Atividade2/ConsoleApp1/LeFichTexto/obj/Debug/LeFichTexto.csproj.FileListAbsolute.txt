@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade2\ConsoleApp1\LeFichTexto\bin\Debug\LeFichTexto.exe.config
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade2\ConsoleApp1\LeFichTexto\bin\Debug\LeFichTexto.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade2\ConsoleApp1\LeFichTexto\bin\Debug\LeFichTexto.pdb
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade2\ConsoleApp1\LeFichTexto\obj\Debug\LeFichTexto.exe
+C:\Users\ASUS\Desktop\ProjetosVisualStudios\Atividade2\ConsoleApp1\LeFichTexto\obj\Debug\LeFichTexto.pdb

@@ -1,0 +1,17 @@
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp2\bin\Debug\WinFormsApp2.exe.config
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp2\bin\Debug\WinFormsApp2.exe
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp2\bin\Debug\WinFormsApp2.pdb
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp2\obj\Debug\WinFormsApp2.Form1.resources
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp2\obj\Debug\WinFormsApp2.Properties.Resources.resources
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp2\obj\Debug\WinFormsApp2.csproj.GenerateResource.Cache
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp2\obj\Debug\WinFormsApp2.exe
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp2\obj\Debug\WinFormsApp2.pdb
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp2\bin\Debug\WinFormsApp2.exe.config
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp2\bin\Debug\WinFormsApp2.exe
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp2\bin\Debug\WinFormsApp2.pdb
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp2\obj\Debug\WinFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp2\obj\Debug\WinFormsApp2.Form1.resources
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp2\obj\Debug\WinFormsApp2.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp2\obj\Debug\WinFormsApp2.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp2\obj\Debug\WinFormsApp2.exe
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp2\obj\Debug\WinFormsApp2.pdb

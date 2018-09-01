@@ -1,0 +1,16 @@
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp3\bin\Debug\WinFormsApp3.exe.config
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp3\bin\Debug\WinFormsApp3.exe
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp3\bin\Debug\WinFormsApp3.pdb
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp3\obj\Debug\WinFormsApp3.Form1.resources
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp3\obj\Debug\WinFormsApp3.Properties.Resources.resources
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp3\obj\Debug\WinFormsApp3.csproj.GenerateResource.Cache
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp3\obj\Debug\WinFormsApp3.exe
+C:\Users\tecminho1\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp3\obj\Debug\WinFormsApp3.pdb
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp3\bin\Debug\WinFormsApp3.exe.config
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp3\bin\Debug\WinFormsApp3.exe
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp3\bin\Debug\WinFormsApp3.pdb
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp3\obj\Debug\WinFormsApp3.Form1.resources
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp3\obj\Debug\WinFormsApp3.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp3\obj\Debug\WinFormsApp3.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp3\obj\Debug\WinFormsApp3.exe
+C:\Users\ASUS\Desktop\projetos\Projeto4\WinFormsApp\WinFormsApp3\obj\Debug\WinFormsApp3.pdb
